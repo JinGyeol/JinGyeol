@@ -1,5 +1,7 @@
 <div align="center">
 
+## JJG GITHUB에 오신 것을 환영합니다🙌
+
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=180&text=JJG's%20GITHUB👋&animation=twinkling&fontSize=50&fontAlignY=50&descAlign=70.&descAlignY=44)
 
 <br/>
