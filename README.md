@@ -1,3 +1,5 @@
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=180&text=JJG's%20GITHUB👋&animation=twinkling&fontSize=50&fontAlignY=50&descAlign=70.&descAlignY=44)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinGyeol&count_bg=%2379C83D&title_bg=%23CFCFCF&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -29,3 +31,4 @@
     </div>
 </div><br>
 </div>
+
